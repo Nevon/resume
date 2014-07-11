@@ -1,0 +1,101 @@
+{
+  "bio": {
+    "firstName": "Tommy",
+    "lastName": "Brunn",
+    "email": {
+      "work": "tommy.brunn@blocket.se",
+      "personal": "tommy.brunn@gmail.com"
+    },
+    "phone": {
+      "personal": "+46 70 5952841"
+    },
+    "summary": "I'm a web developer and former systems science student with a passion for developing elegant software, both for the desktop and for the web. I thrive in environments where I get the opportunity to work with people who are as passionate about what they do as I am; hence my infatuation with open-source software.",
+    "location": {
+      "city": "Stockholm",
+      "countryCode": "SE",
+      "region": "Stockholms Län"
+    },
+    "websites": {
+      "personal": "http://tommybrunn.se"
+    },
+    "profiles": {
+      "github": "nevon",
+      "google+": "tommybrunn",
+      "twitter": "tommybrunn"
+    }
+  },
+  "work": [
+    {
+      "company": "Blocket",
+      "position": "Front-end Developer",
+      "website": "http://blocket.se",
+      "startDate": "2013-08-05",
+      "summary": "Lead the front-end development of Blocket's realestate division during a huge growth period",
+      "highlights": [
+        "Developed the interactive realestate map as my first project",
+        "Played a large role in the implementation of the new design of Blocket Bostad",
+        "Lead the effort of creating a UI toolkit for internal use"
+      ]
+    },
+    {
+      "company": "Zinion",
+      "position": "Web Developer",
+      "website": "http://zinion.com",
+      "startDate": "2011-03-01",
+      "endDate": "2013-07-01",
+      "summary": "Worked as a PHP developer maintaining both legacy projects and developing new ones",
+      "highlights": [
+        "Was part of creating a bespoke PHP CMS for a complex community site"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Luleå University of Technology",
+      "startDate": "2009",
+      "endDate": "2013",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "courses": [
+        "Software Development with Java",
+        "IT Design",
+        "Database Systems I",
+        "Database Systems II",
+        "Programming in C#",
+        "Scientific Theory and Method II",
+        "Web Development with CMS",
+        "Object Oriented Analysis and Design",
+        "Object Oriented Software Development",
+        "IT-design and Systems Thinking",
+        "Web Deveopment I",
+        "Web Development II",
+        "Enterprise Architecture and Service Oriented Architecture",
+        "Graphic Design",
+        "Game Design Theory"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "CoffeeScript",
+        "Python",
+        "Java",
+        "LESS",
+        "Grunt",
+        "Node",
+        "Lua",
+        "Git",
+        "Mercurial",
+        "Linux",
+        "PHP",
+        "SQL",
+        "Open Source"
+      ]
+    }
+  ]
+}
